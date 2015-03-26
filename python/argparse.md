@@ -14,4 +14,4 @@
     # args.video  # [video]
     # args.method # string
     
-获取到的结果 `args.video` 是一个数组，虽然只有一个元素
+获取到的结果 `args.video` 是一个数组，虽然只有一个元素 
