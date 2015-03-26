@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [简介](README.md)
 * Python
    * [flask文件上传](python/flask-upload.md)
    * [argparse](python/argparse.md)
