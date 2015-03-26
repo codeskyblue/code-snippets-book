@@ -11,5 +11,7 @@
     parser.add_argument('--method', type=str, default='template', help='Choose one of <pixel|template>')
     parser.add_argument('videopath', type=str, nargs=1)
     args = parser.parse_args()
+    # args.video  # [video]
+    # args.method # string
     
-    args.video 是一个数组
+获取到的结果 `args.video` 是一个数组，虽然只有一个元素
