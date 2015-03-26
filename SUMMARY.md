@@ -2,7 +2,7 @@
 
 * [introduction](README.md)
 * Python
-   * [flask文件上传](flask-upload.md)
+   * [flask文件上传](python/flask-upload.md)
 * HTML前端
-   * [Bootstrap3前端模板](bootstrap3-template.md)
+   * [Bootstrap3前端模板](html/bootstrap3-template.md)
 
