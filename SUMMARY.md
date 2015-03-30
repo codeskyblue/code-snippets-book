@@ -8,4 +8,5 @@
        * [改变鼠标的样式](python/pygame-cursor.md)
 * HTML前端
    * [Bootstrap3前端模板](html/bootstrap3-template.md)
+   * Highchart-basicline
 
