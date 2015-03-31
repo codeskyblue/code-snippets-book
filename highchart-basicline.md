@@ -53,3 +53,6 @@ $(function() {
     });
 });
 ```
+
+如何增加标记线
+<http://www.hcharts.cn/docs/index.php?doc=basic-plotLines>
