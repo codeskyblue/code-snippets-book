@@ -6,7 +6,7 @@
    * [argparse](python/argparse.md)
    * pygame相关
        * [改变鼠标的样式](python/pygame-cursor.md)
-   * flask处理客户端的请求
+   * [flask处理客户端的请求](python/flask-handle-client-request.md)
 * HTML前端
    * [Bootstrap3前端模板](html/bootstrap3-template.md)
    * [Highchart-basicline](html/highchart-basicline.md)
