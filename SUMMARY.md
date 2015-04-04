@@ -4,7 +4,7 @@
 * Python
    * [flask文件上传](python/flask-upload.md)
    * [argparse](python/argparse.md)
-   * pygame相关
+   * [pygame相关](python/pygame-introduction.md)
        * [改变鼠标的样式](python/pygame-cursor.md)
    * [flask处理客户端的请求](python/flask-handle-client-request.md)
 * HTML前端
