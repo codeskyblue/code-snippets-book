@@ -7,7 +7,7 @@
    * [pygame相关](python/pygame-introduction.md)
        * [改变鼠标的样式](python/pygame-cursor.md)
    * [flask处理客户端的请求](python/flask-handle-client-request.md)
-* HTML前端
+* [HTML前端](html/introduction.md)
    * [Bootstrap3前端模板](html/bootstrap3-template.md)
    * [Highchart-basicline](html/highchart-basicline.md)
    * [Jsonp的使用](html/jsonp.md)
