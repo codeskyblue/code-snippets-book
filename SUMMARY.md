@@ -3,6 +3,7 @@
 * [简介](README.md)
 * Python
    * [flask文件上传](python/flask-upload.md)
+   * [flask使用layout](python/flask-layout.md)
    * [argparse](python/argparse.md)
    * [pygame相关](python/pygame-introduction.md)
        * [改变鼠标的样式](python/pygame-cursor.md)
