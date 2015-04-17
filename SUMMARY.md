@@ -13,5 +13,6 @@
    * [Highchart-basicline](html/highchart-basicline.md)
    * [Jsonp的使用](html/jsonp.md)
    * [视频html5](html/video-html5.md)
+   * [Javascript常用代码](html/js-common-code.md)
 * [机器环境](env/introduction.md)
    * [github配置代理](env/github-proxy.md)
