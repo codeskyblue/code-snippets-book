@@ -1,11 +1,16 @@
 ## ADB 常用命令
 
+	adb start-server
+	adb kill-server
+	adb push <local> <remote>
+	adb shell <commands>
+	
 [adb forward交互流程](http://blog.csdn.net/wanghui_nju/article/details/5630570)
 
 - forward
 
 	```
-	adb forward tcp:6100 tcp:7100 // 
+	adb forward tcp:6100 tcp:7100
 	```
 	
 	PC上所有6100端口通信数据将被重定向到手机端7100端口server上
