@@ -16,6 +16,7 @@
    * [视频html5](html/video-html5.md)
    * [Javascript常用代码](html/js-common-code.md)
 * [机器环境](devops/introduction.md)
-   * [github配置代理](env/github-proxy.md)
+   * [github配置代理](devops/github-proxy.md)
+   * [netcat使用技巧](devops/netcat.md)
 * Android
    * [ADB常见命令](android/adb.md)
